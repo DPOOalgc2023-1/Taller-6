@@ -1,0 +1,9 @@
+Factura pedido #0
+Cliente: s
+Dirección: s
+Detalle del pedido; 
+- corral  $100000 cal: 124
+- agua cristal sin gas  $5000 cal: 10
+----- Precio total del pedido: $105000 -----
+----- Impuestos (19%) $19950 -----
+----- Precio Neto total $124950 -----

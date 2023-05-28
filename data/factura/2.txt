@@ -1,0 +1,8 @@
+Factura pedido #2
+Cliente: a
+Dirección: a
+Detalle del pedido; 
+- corral  $130000 cal: 124
+----- Precio total del pedido: $130000 -----
+----- Impuestos (19%) $24700 -----
+----- Precio Neto total $154700 -----

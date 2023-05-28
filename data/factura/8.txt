@@ -1,0 +1,8 @@
+Factura pedido #8
+Cliente: gg
+Dirección: gg
+Detalle del pedido; 
+- especial  $24000
+----- Precio total del pedido: $24000 -----
+----- Impuestos (19%) $4560 -----
+----- Precio Neto total $28560 -----

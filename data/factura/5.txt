@@ -1,0 +1,8 @@
+Factura pedido #5
+Cliente: gg
+Dirección: ff
+Detalle del pedido; 
+- todoterreno  $25000
+----- Precio total del pedido: $25000 -----
+----- Impuestos (19%) $4750 -----
+----- Precio Neto total $29750 -----
